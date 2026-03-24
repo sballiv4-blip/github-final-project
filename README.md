@@ -1,3 +1,10 @@
-# Simple_Interest
+# This is the README.md file for the **github-final-project**
 
-The purpose of this repository is to fascilitate the transfer of data from SVN to Git. 
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r/100
